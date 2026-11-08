@@ -1,0 +1,11 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 内部工作区记忆，不入库
+.workbuddy/
+
+# 系统文件
+Thumbs.db
+.DS_Store
